@@ -7,6 +7,6 @@ Requirements:
 - Veins 4.7.1
 
 4G-based C-V2X simulation network and configuration files are located in:
-- [veins-veins-4.7.1/subprojects/veins_inet/examples/veins_inet/]([veins-veins-4.7.1/subprojects/veins_inet/examples/veins_inet/)
+- [veins-veins-4.7.1/subprojects/veins_inet/examples/veins_inet/](veins-veins-4.7.1/subprojects/veins_inet/examples/veins_inet/)
 
 Please note that the folder with the OMNeT++ configuration (.ini) file, contains also pythonSimulationManager_v1.5.py file. This file is the Python implementation of the MLR Estimator which uses VISSIM and OMNeT++ output files from a shared directory to estimate the MLR. 
